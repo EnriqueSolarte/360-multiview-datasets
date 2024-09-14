@@ -1,0 +1,30 @@
+# ! MVL Datasets
+dir_datasets: /media/datasets/mvl_datasets 
+datasets:
+  hm3d_mvl:
+    dataset_name: hm3d_mvl
+    dir: ${dir_datasets}/${datasets.hm3d_mvl.dataset_name}
+    img_dir: ${datasets.hm3d_mvl.dir}/img
+    geometry_info_dir: ${datasets.hm3d_mvl.dir}/geometry_info
+    labels_dir: ${datasets.hm3d_mvl.dir}/labels/phi_coords
+    scene_list: ${datasets.hm3d_mvl.dir}/scene_list__testing_set.json
+    resolution: [512, 1024]
+
+  mp3d_fpe_mvl:
+    dir:  ${dir_datasets}/${datasets.mp3d_fpe_mvl.dataset_name}
+    dataset_name: mp3d_fpe_mvl
+    img_dir: ${datasets.mp3d_fpe_mvl.dir}/img
+    geometry_info_dir: ${datasets.mp3d_fpe_mvl.dir}/geometry_info
+    labels_dir: ${datasets.mp3d_fpe_mvl.dir}/labels/phi_coords
+    scene_list: ${datasets.mp3d_fpe_mvl.dir}/scene_list__testing_set.json
+    resolution: [512, 1024]
+
+  zind_mvl:
+    dir: ${dir_datasets}/${datasets.zind_mvl.dataset_name}
+    dataset_name: zind_mvl
+    img_dir: ${datasets.zind_mvl.dir}/img
+    geometry_info_dir: ${datasets.zind_mvl.dir}/geometry_info
+    labels_dir: ${datasets.zind_mvl.dir}/labels/layout_visible
+    scene_list: ${datasets.zind_mvl.dir}/scene_list__testing_set.json
+    resolution: [512, 1024]
+

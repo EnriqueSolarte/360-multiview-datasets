@@ -1,0 +1,1516 @@
+{
+	"0021_floor_01_partial_room_02_pano": [
+		"0021_floor_01_partial_room_02_pano_25",
+		"0021_floor_01_partial_room_02_pano_26",
+		"0021_floor_01_partial_room_02_pano_28",
+		"0021_floor_01_partial_room_02_pano_29",
+		"0021_floor_01_partial_room_02_pano_27"
+	],
+	"0021_floor_01_partial_room_04_pano": [
+		"0021_floor_01_partial_room_04_pano_8",
+		"0021_floor_01_partial_room_04_pano_9",
+		"0021_floor_01_partial_room_04_pano_2",
+		"0021_floor_01_partial_room_04_pano_4",
+		"0021_floor_01_partial_room_04_pano_1"
+	],
+	"0021_floor_01_partial_room_08_pano": [
+		"0021_floor_01_partial_room_08_pano_10",
+		"0021_floor_01_partial_room_08_pano_17",
+		"0021_floor_01_partial_room_08_pano_19",
+		"0021_floor_01_partial_room_08_pano_16",
+		"0021_floor_01_partial_room_08_pano_11",
+		"0021_floor_01_partial_room_08_pano_12"
+	],
+	"0038_floor_01_partial_room_04_pano": [
+		"0038_floor_01_partial_room_04_pano_6",
+		"0038_floor_01_partial_room_04_pano_2",
+		"0038_floor_01_partial_room_04_pano_1",
+		"0038_floor_01_partial_room_04_pano_4",
+		"0038_floor_01_partial_room_04_pano_3"
+	],
+	"0039_floor_01_partial_room_01_pano": [
+		"0039_floor_01_partial_room_01_pano_58",
+		"0039_floor_01_partial_room_01_pano_59",
+		"0039_floor_01_partial_room_01_pano_60",
+		"0039_floor_01_partial_room_01_pano_51",
+		"0039_floor_01_partial_room_01_pano_53",
+		"0039_floor_01_partial_room_01_pano_52",
+		"0039_floor_01_partial_room_01_pano_55",
+		"0039_floor_01_partial_room_01_pano_54",
+		"0039_floor_01_partial_room_01_pano_56",
+		"0039_floor_01_partial_room_01_pano_57"
+	],
+	"0039_floor_01_partial_room_04_pano": [
+		"0039_floor_01_partial_room_04_pano_26",
+		"0039_floor_01_partial_room_04_pano_25",
+		"0039_floor_01_partial_room_04_pano_28",
+		"0039_floor_01_partial_room_04_pano_22",
+		"0039_floor_01_partial_room_04_pano_24",
+		"0039_floor_01_partial_room_04_pano_23"
+	],
+	"0039_floor_01_partial_room_09_pano": [
+		"0039_floor_01_partial_room_09_pano_6",
+		"0039_floor_01_partial_room_09_pano_14",
+		"0039_floor_01_partial_room_09_pano_5",
+		"0039_floor_01_partial_room_09_pano_15",
+		"0039_floor_01_partial_room_09_pano_8",
+		"0039_floor_01_partial_room_09_pano_9",
+		"0039_floor_01_partial_room_09_pano_11",
+		"0039_floor_01_partial_room_09_pano_13",
+		"0039_floor_01_partial_room_09_pano_4",
+		"0039_floor_01_partial_room_09_pano_10",
+		"0039_floor_01_partial_room_09_pano_12",
+		"0039_floor_01_partial_room_09_pano_3"
+	],
+	"0039_floor_01_partial_room_12_pano": [
+		"0039_floor_01_partial_room_12_pano_42",
+		"0039_floor_01_partial_room_12_pano_40",
+		"0039_floor_01_partial_room_12_pano_44",
+		"0039_floor_01_partial_room_12_pano_33",
+		"0039_floor_01_partial_room_12_pano_41",
+		"0039_floor_01_partial_room_12_pano_43",
+		"0039_floor_01_partial_room_12_pano_46",
+		"0039_floor_01_partial_room_12_pano_35",
+		"0039_floor_01_partial_room_12_pano_32",
+		"0039_floor_01_partial_room_12_pano_45",
+		"0039_floor_01_partial_room_12_pano_34",
+		"0039_floor_01_partial_room_12_pano_37",
+		"0039_floor_01_partial_room_12_pano_38",
+		"0039_floor_01_partial_room_12_pano_36",
+		"0039_floor_01_partial_room_12_pano_39"
+	],
+	"0039_floor_02_partial_room_06_pano": [
+		"0039_floor_02_partial_room_06_pano_91",
+		"0039_floor_02_partial_room_06_pano_90",
+		"0039_floor_02_partial_room_06_pano_86",
+		"0039_floor_02_partial_room_06_pano_88",
+		"0039_floor_02_partial_room_06_pano_87",
+		"0039_floor_02_partial_room_06_pano_85",
+		"0039_floor_02_partial_room_06_pano_89"
+	],
+	"0039_floor_02_partial_room_09_pano": [
+		"0039_floor_02_partial_room_09_pano_80",
+		"0039_floor_02_partial_room_09_pano_81",
+		"0039_floor_02_partial_room_09_pano_77",
+		"0039_floor_02_partial_room_09_pano_76",
+		"0039_floor_02_partial_room_09_pano_79",
+		"0039_floor_02_partial_room_09_pano_78"
+	],
+	"0039_floor_02_partial_room_10_pano": [
+		"0039_floor_02_partial_room_10_pano_95",
+		"0039_floor_02_partial_room_10_pano_93",
+		"0039_floor_02_partial_room_10_pano_97",
+		"0039_floor_02_partial_room_10_pano_94",
+		"0039_floor_02_partial_room_10_pano_96",
+		"0039_floor_02_partial_room_10_pano_98",
+		"0039_floor_02_partial_room_10_pano_99"
+	],
+	"0090_floor_01_partial_room_17_pano": [
+		"0090_floor_01_partial_room_17_pano_14",
+		"0090_floor_01_partial_room_17_pano_19",
+		"0090_floor_01_partial_room_17_pano_13",
+		"0090_floor_01_partial_room_17_pano_12",
+		"0090_floor_01_partial_room_17_pano_23"
+	],
+	"0141_floor_01_partial_room_15_pano": [
+		"0141_floor_01_partial_room_15_pano_39",
+		"0141_floor_01_partial_room_15_pano_40",
+		"0141_floor_01_partial_room_15_pano_50",
+		"0141_floor_01_partial_room_15_pano_42",
+		"0141_floor_01_partial_room_15_pano_41",
+		"0141_floor_01_partial_room_15_pano_52"
+	],
+	"0165_floor_01_partial_room_05_pano": [
+		"0165_floor_01_partial_room_05_pano_17",
+		"0165_floor_01_partial_room_05_pano_16",
+		"0165_floor_01_partial_room_05_pano_11",
+		"0165_floor_01_partial_room_05_pano_20",
+		"0165_floor_01_partial_room_05_pano_13"
+	],
+	"0181_floor_01_partial_room_01_pano": [
+		"0181_floor_01_partial_room_01_pano_28",
+		"0181_floor_01_partial_room_01_pano_29",
+		"0181_floor_01_partial_room_01_pano_26",
+		"0181_floor_01_partial_room_01_pano_27",
+		"0181_floor_01_partial_room_01_pano_30"
+	],
+	"0181_floor_01_partial_room_06_pano": [
+		"0181_floor_01_partial_room_06_pano_15",
+		"0181_floor_01_partial_room_06_pano_6",
+		"0181_floor_01_partial_room_06_pano_8",
+		"0181_floor_01_partial_room_06_pano_7",
+		"0181_floor_01_partial_room_06_pano_2",
+		"0181_floor_01_partial_room_06_pano_4",
+		"0181_floor_01_partial_room_06_pano_3",
+		"0181_floor_01_partial_room_06_pano_5"
+	],
+	"0181_floor_01_partial_room_07_pano": [
+		"0181_floor_01_partial_room_07_pano_14",
+		"0181_floor_01_partial_room_07_pano_9",
+		"0181_floor_01_partial_room_07_pano_12",
+		"0181_floor_01_partial_room_07_pano_13",
+		"0181_floor_01_partial_room_07_pano_10"
+	],
+	"0203_floor_01_partial_room_22_pano": [
+		"0203_floor_01_partial_room_22_pano_39",
+		"0203_floor_01_partial_room_22_pano_38",
+		"0203_floor_01_partial_room_22_pano_40"
+	],
+	"0278_floor_01_partial_room_03_pano": [
+		"0278_floor_01_partial_room_03_pano_18",
+		"0278_floor_01_partial_room_03_pano_19",
+		"0278_floor_01_partial_room_03_pano_20",
+		"0278_floor_01_partial_room_03_pano_21",
+		"0278_floor_01_partial_room_03_pano_22"
+	],
+	"0278_floor_01_partial_room_07_pano": [
+		"0278_floor_01_partial_room_07_pano_14",
+		"0278_floor_01_partial_room_07_pano_16",
+		"0278_floor_01_partial_room_07_pano_15",
+		"0278_floor_01_partial_room_07_pano_17",
+		"0278_floor_01_partial_room_07_pano_13"
+	],
+	"0278_floor_02_partial_room_07_pano": [
+		"0278_floor_02_partial_room_07_pano_50",
+		"0278_floor_02_partial_room_07_pano_51",
+		"0278_floor_02_partial_room_07_pano_53",
+		"0278_floor_02_partial_room_07_pano_55",
+		"0278_floor_02_partial_room_07_pano_54",
+		"0278_floor_02_partial_room_07_pano_52"
+	],
+	"0278_floor_02_partial_room_11_pano": [
+		"0278_floor_02_partial_room_11_pano_82",
+		"0278_floor_02_partial_room_11_pano_86",
+		"0278_floor_02_partial_room_11_pano_83",
+		"0278_floor_02_partial_room_11_pano_85",
+		"0278_floor_02_partial_room_11_pano_84"
+	],
+	"0278_floor_02_partial_room_12_pano": [
+		"0278_floor_02_partial_room_12_pano_69",
+		"0278_floor_02_partial_room_12_pano_71",
+		"0278_floor_02_partial_room_12_pano_70",
+		"0278_floor_02_partial_room_12_pano_73",
+		"0278_floor_02_partial_room_12_pano_72",
+		"0278_floor_02_partial_room_12_pano_68"
+	],
+	"0278_floor_02_partial_room_13_pano": [
+		"0278_floor_02_partial_room_13_pano_90",
+		"0278_floor_02_partial_room_13_pano_93",
+		"0278_floor_02_partial_room_13_pano_89",
+		"0278_floor_02_partial_room_13_pano_91",
+		"0278_floor_02_partial_room_13_pano_92"
+	],
+	"0297_floor_01_partial_room_02_pano": [
+		"0297_floor_01_partial_room_02_pano_9",
+		"0297_floor_01_partial_room_02_pano_11",
+		"0297_floor_01_partial_room_02_pano_10",
+		"0297_floor_01_partial_room_02_pano_13",
+		"0297_floor_01_partial_room_02_pano_12"
+	],
+	"0297_floor_01_partial_room_07_pano": [
+		"0297_floor_01_partial_room_07_pano_19",
+		"0297_floor_01_partial_room_07_pano_18",
+		"0297_floor_01_partial_room_07_pano_17",
+		"0297_floor_01_partial_room_07_pano_22",
+		"0297_floor_01_partial_room_07_pano_24",
+		"0297_floor_01_partial_room_07_pano_23"
+	],
+	"0297_floor_02_partial_room_03_pano": [
+		"0297_floor_02_partial_room_03_pano_59",
+		"0297_floor_02_partial_room_03_pano_58",
+		"0297_floor_02_partial_room_03_pano_60",
+		"0297_floor_02_partial_room_03_pano_62",
+		"0297_floor_02_partial_room_03_pano_64",
+		"0297_floor_02_partial_room_03_pano_63",
+		"0297_floor_02_partial_room_03_pano_67",
+		"0297_floor_02_partial_room_03_pano_65",
+		"0297_floor_02_partial_room_03_pano_66"
+	],
+	"0297_floor_02_partial_room_08_pano": [
+		"0297_floor_02_partial_room_08_pano_37",
+		"0297_floor_02_partial_room_08_pano_36",
+		"0297_floor_02_partial_room_08_pano_39",
+		"0297_floor_02_partial_room_08_pano_38",
+		"0297_floor_02_partial_room_08_pano_42"
+	],
+	"0299_floor_01_partial_room_02_pano": [
+		"0299_floor_01_partial_room_02_pano_12",
+		"0299_floor_01_partial_room_02_pano_13",
+		"0299_floor_01_partial_room_02_pano_15",
+		"0299_floor_01_partial_room_02_pano_14",
+		"0299_floor_01_partial_room_02_pano_9",
+		"0299_floor_01_partial_room_02_pano_10"
+	],
+	"0299_floor_01_partial_room_09_pano": [
+		"0299_floor_01_partial_room_09_pano_17",
+		"0299_floor_01_partial_room_09_pano_16",
+		"0299_floor_01_partial_room_09_pano_22",
+		"0299_floor_01_partial_room_09_pano_19",
+		"0299_floor_01_partial_room_09_pano_18",
+		"0299_floor_01_partial_room_09_pano_20",
+		"0299_floor_01_partial_room_09_pano_21",
+		"0299_floor_01_partial_room_09_pano_24",
+		"0299_floor_01_partial_room_09_pano_23"
+	],
+	"0299_floor_02_partial_room_05_pano": [
+		"0299_floor_02_partial_room_05_pano_36",
+		"0299_floor_02_partial_room_05_pano_38",
+		"0299_floor_02_partial_room_05_pano_37",
+		"0299_floor_02_partial_room_05_pano_33",
+		"0299_floor_02_partial_room_05_pano_35",
+		"0299_floor_02_partial_room_05_pano_34"
+	],
+	"0299_floor_02_partial_room_07_pano": [
+		"0299_floor_02_partial_room_07_pano_51",
+		"0299_floor_02_partial_room_07_pano_48",
+		"0299_floor_02_partial_room_07_pano_49",
+		"0299_floor_02_partial_room_07_pano_47",
+		"0299_floor_02_partial_room_07_pano_50",
+		"0299_floor_02_partial_room_07_pano_53",
+		"0299_floor_02_partial_room_07_pano_46"
+	],
+	"0308_floor_01_partial_room_02_pano": [
+		"0308_floor_01_partial_room_02_pano_17",
+		"0308_floor_01_partial_room_02_pano_31",
+		"0308_floor_01_partial_room_02_pano_22",
+		"0308_floor_01_partial_room_02_pano_11",
+		"0308_floor_01_partial_room_02_pano_10",
+		"0308_floor_01_partial_room_02_pano_32",
+		"0308_floor_01_partial_room_02_pano_33",
+		"0308_floor_01_partial_room_02_pano_12"
+	],
+	"0308_floor_01_partial_room_03_pano": [
+		"0308_floor_01_partial_room_03_pano_5",
+		"0308_floor_01_partial_room_03_pano_8",
+		"0308_floor_01_partial_room_03_pano_7",
+		"0308_floor_01_partial_room_03_pano_6",
+		"0308_floor_01_partial_room_03_pano_9",
+		"0308_floor_01_partial_room_03_pano_0",
+		"0308_floor_01_partial_room_03_pano_4",
+		"0308_floor_01_partial_room_03_pano_34"
+	],
+	"0308_floor_01_partial_room_04_pano": [
+		"0308_floor_01_partial_room_04_pano_27",
+		"0308_floor_01_partial_room_04_pano_26",
+		"0308_floor_01_partial_room_04_pano_28",
+		"0308_floor_01_partial_room_04_pano_29",
+		"0308_floor_01_partial_room_04_pano_30"
+	],
+	"0325_floor_01_partial_room_05_pano": [
+		"0325_floor_01_partial_room_05_pano_8",
+		"0325_floor_01_partial_room_05_pano_5",
+		"0325_floor_01_partial_room_05_pano_9",
+		"0325_floor_01_partial_room_05_pano_10",
+		"0325_floor_01_partial_room_05_pano_4"
+	],
+	"0325_floor_01_partial_room_07_pano": [
+		"0325_floor_01_partial_room_07_pano_15",
+		"0325_floor_01_partial_room_07_pano_14",
+		"0325_floor_01_partial_room_07_pano_17",
+		"0325_floor_01_partial_room_07_pano_11",
+		"0325_floor_01_partial_room_07_pano_12",
+		"0325_floor_01_partial_room_07_pano_21",
+		"0325_floor_01_partial_room_07_pano_13"
+	],
+	"0325_floor_02_partial_room_05_pano": [
+		"0325_floor_02_partial_room_05_pano_37",
+		"0325_floor_02_partial_room_05_pano_29",
+		"0325_floor_02_partial_room_05_pano_31",
+		"0325_floor_02_partial_room_05_pano_32",
+		"0325_floor_02_partial_room_05_pano_30",
+		"0325_floor_02_partial_room_05_pano_34"
+	],
+	"0336_floor_01_partial_room_01_pano": [
+		"0336_floor_01_partial_room_01_pano_14",
+		"0336_floor_01_partial_room_01_pano_13",
+		"0336_floor_01_partial_room_01_pano_10",
+		"0336_floor_01_partial_room_01_pano_41",
+		"0336_floor_01_partial_room_01_pano_11",
+		"0336_floor_01_partial_room_01_pano_12",
+		"0336_floor_01_partial_room_01_pano_23"
+	],
+	"0336_floor_01_partial_room_10_pano": [
+		"0336_floor_01_partial_room_10_pano_25",
+		"0336_floor_01_partial_room_10_pano_27",
+		"0336_floor_01_partial_room_10_pano_24",
+		"0336_floor_01_partial_room_10_pano_32",
+		"0336_floor_01_partial_room_10_pano_35"
+	],
+	"0375_floor_01_partial_room_09_pano": [
+		"0375_floor_01_partial_room_09_pano_11",
+		"0375_floor_01_partial_room_09_pano_16",
+		"0375_floor_01_partial_room_09_pano_15",
+		"0375_floor_01_partial_room_09_pano_18",
+		"0375_floor_01_partial_room_09_pano_13"
+	],
+	"0375_floor_01_partial_room_11_pano": [
+		"0375_floor_01_partial_room_11_pano_7",
+		"0375_floor_01_partial_room_11_pano_8",
+		"0375_floor_01_partial_room_11_pano_9"
+	],
+	"0382_floor_02_partial_room_02_pano": [
+		"0382_floor_02_partial_room_02_pano_8",
+		"0382_floor_02_partial_room_02_pano_9",
+		"0382_floor_02_partial_room_02_pano_62",
+		"0382_floor_02_partial_room_02_pano_63"
+	],
+	"0382_floor_02_partial_room_04_pano": [
+		"0382_floor_02_partial_room_04_pano_71",
+		"0382_floor_02_partial_room_04_pano_15",
+		"0382_floor_02_partial_room_04_pano_70",
+		"0382_floor_02_partial_room_04_pano_14",
+		"0382_floor_02_partial_room_04_pano_72",
+		"0382_floor_02_partial_room_04_pano_13"
+	],
+	"0382_floor_02_partial_room_07_pano": [
+		"0382_floor_02_partial_room_07_pano_64",
+		"0382_floor_02_partial_room_07_pano_65",
+		"0382_floor_02_partial_room_07_pano_11",
+		"0382_floor_02_partial_room_07_pano_67",
+		"0382_floor_02_partial_room_07_pano_69",
+		"0382_floor_02_partial_room_07_pano_66"
+	],
+	"0382_floor_03_partial_room_01_pano": [
+		"0382_floor_03_partial_room_01_pano_25",
+		"0382_floor_03_partial_room_01_pano_41",
+		"0382_floor_03_partial_room_01_pano_43",
+		"0382_floor_03_partial_room_01_pano_34",
+		"0382_floor_03_partial_room_01_pano_35"
+	],
+	"0382_floor_03_partial_room_10_pano": [
+		"0382_floor_03_partial_room_10_pano_49",
+		"0382_floor_03_partial_room_10_pano_48",
+		"0382_floor_03_partial_room_10_pano_50",
+		"0382_floor_03_partial_room_10_pano_52",
+		"0382_floor_03_partial_room_10_pano_21",
+		"0382_floor_03_partial_room_10_pano_46",
+		"0382_floor_03_partial_room_10_pano_22",
+		"0382_floor_03_partial_room_10_pano_45"
+	],
+	"0383_floor_01_partial_room_15_pano": [
+		"0383_floor_01_partial_room_15_pano_8",
+		"0383_floor_01_partial_room_15_pano_6",
+		"0383_floor_01_partial_room_15_pano_7",
+		"0383_floor_01_partial_room_15_pano_9",
+		"0383_floor_01_partial_room_15_pano_30",
+		"0383_floor_01_partial_room_15_pano_11"
+	],
+	"0420_floor_02_partial_room_07_pano": [
+		"0420_floor_02_partial_room_07_pano_49",
+		"0420_floor_02_partial_room_07_pano_44",
+		"0420_floor_02_partial_room_07_pano_43",
+		"0420_floor_02_partial_room_07_pano_45",
+		"0420_floor_02_partial_room_07_pano_46"
+	],
+	"0429_floor_01_partial_room_17_pano": [
+		"0429_floor_01_partial_room_17_pano_15",
+		"0429_floor_01_partial_room_17_pano_14",
+		"0429_floor_01_partial_room_17_pano_18",
+		"0429_floor_01_partial_room_17_pano_21",
+		"0429_floor_01_partial_room_17_pano_13"
+	],
+	"0438_floor_01_partial_room_09_pano": [
+		"0438_floor_01_partial_room_09_pano_11",
+		"0438_floor_01_partial_room_09_pano_22",
+		"0438_floor_01_partial_room_09_pano_10",
+		"0438_floor_01_partial_room_09_pano_13",
+		"0438_floor_01_partial_room_09_pano_12"
+	],
+	"0438_floor_01_partial_room_11_pano": [
+		"0438_floor_01_partial_room_11_pano_2",
+		"0438_floor_01_partial_room_11_pano_4",
+		"0438_floor_01_partial_room_11_pano_7",
+		"0438_floor_01_partial_room_11_pano_5",
+		"0438_floor_01_partial_room_11_pano_3"
+	],
+	"0444_floor_01_partial_room_01_pano": [
+		"0444_floor_01_partial_room_01_pano_28",
+		"0444_floor_01_partial_room_01_pano_29",
+		"0444_floor_01_partial_room_01_pano_24",
+		"0444_floor_01_partial_room_01_pano_30",
+		"0444_floor_01_partial_room_01_pano_23"
+	],
+	"0444_floor_01_partial_room_07_pano": [
+		"0444_floor_01_partial_room_07_pano_5",
+		"0444_floor_01_partial_room_07_pano_8",
+		"0444_floor_01_partial_room_07_pano_4",
+		"0444_floor_01_partial_room_07_pano_7",
+		"0444_floor_01_partial_room_07_pano_3"
+	],
+	"0444_floor_02_partial_room_03_pano": [
+		"0444_floor_02_partial_room_03_pano_53",
+		"0444_floor_02_partial_room_03_pano_55",
+		"0444_floor_02_partial_room_03_pano_54",
+		"0444_floor_02_partial_room_03_pano_65",
+		"0444_floor_02_partial_room_03_pano_68"
+	],
+	"0453_floor_01_partial_room_05_pano": [
+		"0453_floor_01_partial_room_05_pano_6",
+		"0453_floor_01_partial_room_05_pano_5",
+		"0453_floor_01_partial_room_05_pano_9",
+		"0453_floor_01_partial_room_05_pano_2",
+		"0453_floor_01_partial_room_05_pano_3"
+	],
+	"0490_floor_01_partial_room_10_pano": [
+		"0490_floor_01_partial_room_10_pano_5",
+		"0490_floor_01_partial_room_10_pano_15",
+		"0490_floor_01_partial_room_10_pano_2",
+		"0490_floor_01_partial_room_10_pano_4",
+		"0490_floor_01_partial_room_10_pano_0",
+		"0490_floor_01_partial_room_10_pano_3"
+	],
+	"0494_floor_01_partial_room_19_pano": [
+		"0494_floor_01_partial_room_19_pano_47",
+		"0494_floor_01_partial_room_19_pano_49",
+		"0494_floor_01_partial_room_19_pano_46",
+		"0494_floor_01_partial_room_19_pano_50",
+		"0494_floor_01_partial_room_19_pano_53"
+	],
+	"0502_floor_02_partial_room_09_pano": [
+		"0502_floor_02_partial_room_09_pano_50",
+		"0502_floor_02_partial_room_09_pano_40",
+		"0502_floor_02_partial_room_09_pano_36",
+		"0502_floor_02_partial_room_09_pano_47",
+		"0502_floor_02_partial_room_09_pano_44",
+		"0502_floor_02_partial_room_09_pano_37"
+	],
+	"0528_floor_01_partial_room_04_pano": [
+		"0528_floor_01_partial_room_04_pano_40",
+		"0528_floor_01_partial_room_04_pano_42",
+		"0528_floor_01_partial_room_04_pano_41",
+		"0528_floor_01_partial_room_04_pano_44",
+		"0528_floor_01_partial_room_04_pano_43"
+	],
+	"0528_floor_01_partial_room_09_pano": [
+		"0528_floor_01_partial_room_09_pano_95",
+		"0528_floor_01_partial_room_09_pano_92",
+		"0528_floor_01_partial_room_09_pano_94",
+		"0528_floor_01_partial_room_09_pano_97",
+		"0528_floor_01_partial_room_09_pano_96"
+	],
+	"0528_floor_01_partial_room_12_pano": [
+		"0528_floor_01_partial_room_12_pano_37",
+		"0528_floor_01_partial_room_12_pano_36",
+		"0528_floor_01_partial_room_12_pano_39",
+		"0528_floor_01_partial_room_12_pano_38",
+		"0528_floor_01_partial_room_12_pano_35",
+		"0528_floor_01_partial_room_12_pano_34"
+	],
+	"0528_floor_01_partial_room_15_pano": [
+		"0528_floor_01_partial_room_15_pano_8",
+		"0528_floor_01_partial_room_15_pano_7",
+		"0528_floor_01_partial_room_15_pano_9",
+		"0528_floor_01_partial_room_15_pano_10",
+		"0528_floor_01_partial_room_15_pano_11"
+	],
+	"0528_floor_02_partial_room_03_pano": [
+		"0528_floor_02_partial_room_03_pano_59",
+		"0528_floor_02_partial_room_03_pano_58",
+		"0528_floor_02_partial_room_03_pano_60",
+		"0528_floor_02_partial_room_03_pano_61",
+		"0528_floor_02_partial_room_03_pano_63"
+	],
+	"0528_floor_02_partial_room_04_pano": [
+		"0528_floor_02_partial_room_04_pano_90",
+		"0528_floor_02_partial_room_04_pano_86",
+		"0528_floor_02_partial_room_04_pano_85",
+		"0528_floor_02_partial_room_04_pano_88",
+		"0528_floor_02_partial_room_04_pano_87",
+		"0528_floor_02_partial_room_04_pano_89"
+	],
+	"0528_floor_02_partial_room_06_pano": [
+		"0528_floor_02_partial_room_06_pano_80",
+		"0528_floor_02_partial_room_06_pano_77",
+		"0528_floor_02_partial_room_06_pano_76",
+		"0528_floor_02_partial_room_06_pano_75",
+		"0528_floor_02_partial_room_06_pano_79",
+		"0528_floor_02_partial_room_06_pano_78"
+	],
+	"0528_floor_02_partial_room_09_pano": [
+		"0528_floor_02_partial_room_09_pano_69",
+		"0528_floor_02_partial_room_09_pano_71",
+		"0528_floor_02_partial_room_09_pano_72",
+		"0528_floor_02_partial_room_09_pano_70",
+		"0528_floor_02_partial_room_09_pano_68"
+	],
+	"0541_floor_01_partial_room_02_pano": [
+		"0541_floor_01_partial_room_02_pano_26",
+		"0541_floor_01_partial_room_02_pano_25",
+		"0541_floor_01_partial_room_02_pano_24",
+		"0541_floor_01_partial_room_02_pano_27",
+		"0541_floor_01_partial_room_02_pano_23"
+	],
+	"0541_floor_01_partial_room_05_pano": [
+		"0541_floor_01_partial_room_05_pano_37",
+		"0541_floor_01_partial_room_05_pano_6",
+		"0541_floor_01_partial_room_05_pano_5",
+		"0541_floor_01_partial_room_05_pano_0",
+		"0541_floor_01_partial_room_05_pano_4",
+		"0541_floor_01_partial_room_05_pano_3"
+	],
+	"0575_floor_01_partial_room_02_pano": [
+		"0575_floor_01_partial_room_02_pano_6",
+		"0575_floor_01_partial_room_02_pano_5",
+		"0575_floor_01_partial_room_02_pano_8",
+		"0575_floor_01_partial_room_02_pano_3",
+		"0575_floor_01_partial_room_02_pano_2"
+	],
+	"0575_floor_01_partial_room_08_pano": [
+		"0575_floor_01_partial_room_08_pano_14",
+		"0575_floor_01_partial_room_08_pano_10",
+		"0575_floor_01_partial_room_08_pano_11",
+		"0575_floor_01_partial_room_08_pano_12",
+		"0575_floor_01_partial_room_08_pano_13"
+	],
+	"0575_floor_02_partial_room_02_pano": [
+		"0575_floor_02_partial_room_02_pano_53",
+		"0575_floor_02_partial_room_02_pano_48",
+		"0575_floor_02_partial_room_02_pano_54",
+		"0575_floor_02_partial_room_02_pano_46",
+		"0575_floor_02_partial_room_02_pano_45"
+	],
+	"0576_floor_02_partial_room_11_pano": [
+		"0576_floor_02_partial_room_11_pano_37",
+		"0576_floor_02_partial_room_11_pano_36",
+		"0576_floor_02_partial_room_11_pano_39",
+		"0576_floor_02_partial_room_11_pano_40"
+	],
+	"0583_floor_01_partial_room_10_pano": [
+		"0583_floor_01_partial_room_10_pano_17",
+		"0583_floor_01_partial_room_10_pano_16",
+		"0583_floor_01_partial_room_10_pano_15",
+		"0583_floor_01_partial_room_10_pano_18",
+		"0583_floor_01_partial_room_10_pano_21"
+	],
+	"0583_floor_02_partial_room_05_pano": [
+		"0583_floor_02_partial_room_05_pano_40",
+		"0583_floor_02_partial_room_05_pano_29",
+		"0583_floor_02_partial_room_05_pano_48",
+		"0583_floor_02_partial_room_05_pano_30",
+		"0583_floor_02_partial_room_05_pano_43"
+	],
+	"0583_floor_02_partial_room_10_pano": [
+		"0583_floor_02_partial_room_10_pano_57",
+		"0583_floor_02_partial_room_10_pano_61",
+		"0583_floor_02_partial_room_10_pano_60",
+		"0583_floor_02_partial_room_10_pano_59",
+		"0583_floor_02_partial_room_10_pano_58"
+	],
+	"0629_floor_01_partial_room_05_pano": [
+		"0629_floor_01_partial_room_05_pano_5",
+		"0629_floor_01_partial_room_05_pano_8",
+		"0629_floor_01_partial_room_05_pano_0",
+		"0629_floor_01_partial_room_05_pano_10",
+		"0629_floor_01_partial_room_05_pano_4"
+	],
+	"0629_floor_01_partial_room_06_pano": [
+		"0629_floor_01_partial_room_06_pano_18",
+		"0629_floor_01_partial_room_06_pano_16",
+		"0629_floor_01_partial_room_06_pano_13",
+		"0629_floor_01_partial_room_06_pano_11",
+		"0629_floor_01_partial_room_06_pano_15",
+		"0629_floor_01_partial_room_06_pano_12"
+	],
+	"0642_floor_01_partial_room_02_pano": [
+		"0642_floor_01_partial_room_02_pano_17",
+		"0642_floor_01_partial_room_02_pano_19",
+		"0642_floor_01_partial_room_02_pano_18",
+		"0642_floor_01_partial_room_02_pano_21",
+		"0642_floor_01_partial_room_02_pano_20",
+		"0642_floor_01_partial_room_02_pano_23"
+	],
+	"0642_floor_01_partial_room_11_pano": [
+		"0642_floor_01_partial_room_11_pano_36",
+		"0642_floor_01_partial_room_11_pano_37",
+		"0642_floor_01_partial_room_11_pano_31",
+		"0642_floor_01_partial_room_11_pano_30",
+		"0642_floor_01_partial_room_11_pano_33",
+		"0642_floor_01_partial_room_11_pano_34",
+		"0642_floor_01_partial_room_11_pano_32"
+	],
+	"0642_floor_02_partial_room_06_pano": [
+		"0642_floor_02_partial_room_06_pano_75",
+		"0642_floor_02_partial_room_06_pano_74",
+		"0642_floor_02_partial_room_06_pano_77",
+		"0642_floor_02_partial_room_06_pano_76",
+		"0642_floor_02_partial_room_06_pano_78",
+		"0642_floor_02_partial_room_06_pano_79"
+	],
+	"0660_floor_01_partial_room_02_pano": [
+		"0660_floor_01_partial_room_02_pano_37",
+		"0660_floor_01_partial_room_02_pano_36",
+		"0660_floor_01_partial_room_02_pano_38",
+		"0660_floor_01_partial_room_02_pano_43",
+		"0660_floor_01_partial_room_02_pano_35",
+		"0660_floor_01_partial_room_02_pano_42"
+	],
+	"0660_floor_01_partial_room_06_pano": [
+		"0660_floor_01_partial_room_06_pano_5",
+		"0660_floor_01_partial_room_06_pano_1",
+		"0660_floor_01_partial_room_06_pano_0",
+		"0660_floor_01_partial_room_06_pano_4"
+	],
+	"0660_floor_01_partial_room_07_pano": [
+		"0660_floor_01_partial_room_07_pano_16",
+		"0660_floor_01_partial_room_07_pano_15",
+		"0660_floor_01_partial_room_07_pano_19",
+		"0660_floor_01_partial_room_07_pano_14",
+		"0660_floor_01_partial_room_07_pano_18",
+		"0660_floor_01_partial_room_07_pano_29",
+		"0660_floor_01_partial_room_07_pano_31",
+		"0660_floor_01_partial_room_07_pano_24"
+	],
+	"0668_floor_01_partial_room_04_pano": [
+		"0668_floor_01_partial_room_04_pano_19",
+		"0668_floor_01_partial_room_04_pano_20",
+		"0668_floor_01_partial_room_04_pano_18",
+		"0668_floor_01_partial_room_04_pano_24",
+		"0668_floor_01_partial_room_04_pano_41",
+		"0668_floor_01_partial_room_04_pano_23"
+	],
+	"0668_floor_01_partial_room_09_pano": [
+		"0668_floor_01_partial_room_09_pano_36",
+		"0668_floor_01_partial_room_09_pano_37",
+		"0668_floor_01_partial_room_09_pano_33",
+		"0668_floor_01_partial_room_09_pano_31",
+		"0668_floor_01_partial_room_09_pano_32"
+	],
+	"0675_floor_01_partial_room_05_pano": [
+		"0675_floor_01_partial_room_05_pano_16",
+		"0675_floor_01_partial_room_05_pano_17",
+		"0675_floor_01_partial_room_05_pano_19",
+		"0675_floor_01_partial_room_05_pano_18",
+		"0675_floor_01_partial_room_05_pano_20"
+	],
+	"0681_floor_01_partial_room_11_pano": [
+		"0681_floor_01_partial_room_11_pano_6",
+		"0681_floor_01_partial_room_11_pano_9",
+		"0681_floor_01_partial_room_11_pano_5",
+		"0681_floor_01_partial_room_11_pano_0",
+		"0681_floor_01_partial_room_11_pano_11",
+		"0681_floor_01_partial_room_11_pano_4"
+	],
+	"0691_floor_01_partial_room_03_pano": [
+		"0691_floor_01_partial_room_03_pano_5",
+		"0691_floor_01_partial_room_03_pano_1",
+		"0691_floor_01_partial_room_03_pano_0",
+		"0691_floor_01_partial_room_03_pano_4",
+		"0691_floor_01_partial_room_03_pano_3"
+	],
+	"0691_floor_01_partial_room_06_pano": [
+		"0691_floor_01_partial_room_06_pano_30",
+		"0691_floor_01_partial_room_06_pano_33",
+		"0691_floor_01_partial_room_06_pano_31",
+		"0691_floor_01_partial_room_06_pano_32",
+		"0691_floor_01_partial_room_06_pano_35",
+		"0691_floor_01_partial_room_06_pano_34",
+		"0691_floor_01_partial_room_06_pano_26",
+		"0691_floor_01_partial_room_06_pano_37",
+		"0691_floor_01_partial_room_06_pano_36",
+		"0691_floor_01_partial_room_06_pano_39",
+		"0691_floor_01_partial_room_06_pano_28",
+		"0691_floor_01_partial_room_06_pano_27",
+		"0691_floor_01_partial_room_06_pano_38",
+		"0691_floor_01_partial_room_06_pano_29"
+	],
+	"0691_floor_01_partial_room_10_pano": [
+		"0691_floor_01_partial_room_10_pano_59",
+		"0691_floor_01_partial_room_10_pano_58",
+		"0691_floor_01_partial_room_10_pano_62",
+		"0691_floor_01_partial_room_10_pano_60",
+		"0691_floor_01_partial_room_10_pano_61",
+		"0691_floor_01_partial_room_10_pano_63",
+		"0691_floor_01_partial_room_10_pano_57"
+	],
+	"0691_floor_01_partial_room_13_pano": [
+		"0691_floor_01_partial_room_13_pano_47",
+		"0691_floor_01_partial_room_13_pano_48",
+		"0691_floor_01_partial_room_13_pano_42",
+		"0691_floor_01_partial_room_13_pano_44",
+		"0691_floor_01_partial_room_13_pano_46",
+		"0691_floor_01_partial_room_13_pano_43",
+		"0691_floor_01_partial_room_13_pano_45"
+	],
+	"0691_floor_01_partial_room_14_pano": [
+		"0691_floor_01_partial_room_14_pano_69",
+		"0691_floor_01_partial_room_14_pano_71",
+		"0691_floor_01_partial_room_14_pano_70",
+		"0691_floor_01_partial_room_14_pano_66",
+		"0691_floor_01_partial_room_14_pano_73",
+		"0691_floor_01_partial_room_14_pano_72",
+		"0691_floor_01_partial_room_14_pano_68",
+		"0691_floor_01_partial_room_14_pano_67"
+	],
+	"0691_floor_01_partial_room_15_pano": [
+		"0691_floor_01_partial_room_15_pano_6",
+		"0691_floor_01_partial_room_15_pano_8",
+		"0691_floor_01_partial_room_15_pano_7",
+		"0691_floor_01_partial_room_15_pano_12",
+		"0691_floor_01_partial_room_15_pano_11",
+		"0691_floor_01_partial_room_15_pano_13",
+		"0691_floor_01_partial_room_15_pano_9",
+		"0691_floor_01_partial_room_15_pano_2",
+		"0691_floor_01_partial_room_15_pano_51"
+	],
+	"0691_floor_01_partial_room_17_pano": [
+		"0691_floor_01_partial_room_17_pano_19",
+		"0691_floor_01_partial_room_17_pano_21",
+		"0691_floor_01_partial_room_17_pano_23",
+		"0691_floor_01_partial_room_17_pano_20",
+		"0691_floor_01_partial_room_17_pano_22"
+	],
+	"0709_floor_01_partial_room_16_pano": [
+		"0709_floor_01_partial_room_16_pano_7",
+		"0709_floor_01_partial_room_16_pano_8",
+		"0709_floor_01_partial_room_16_pano_9",
+		"0709_floor_01_partial_room_16_pano_15",
+		"0709_floor_01_partial_room_16_pano_10"
+	],
+	"0744_floor_01_partial_room_04_pano": [
+		"0744_floor_01_partial_room_04_pano_9",
+		"0744_floor_01_partial_room_04_pano_30",
+		"0744_floor_01_partial_room_04_pano_10",
+		"0744_floor_01_partial_room_04_pano_12",
+		"0744_floor_01_partial_room_04_pano_4"
+	],
+	"0744_floor_01_partial_room_08_pano": [
+		"0744_floor_01_partial_room_08_pano_26",
+		"0744_floor_01_partial_room_08_pano_18",
+		"0744_floor_01_partial_room_08_pano_19",
+		"0744_floor_01_partial_room_08_pano_21",
+		"0744_floor_01_partial_room_08_pano_22",
+		"0744_floor_01_partial_room_08_pano_20",
+		"0744_floor_01_partial_room_08_pano_23"
+	],
+	"0778_floor_01_partial_room_02_pano": [
+		"0778_floor_01_partial_room_02_pano_8",
+		"0778_floor_01_partial_room_02_pano_17",
+		"0778_floor_01_partial_room_02_pano_7",
+		"0778_floor_01_partial_room_02_pano_10",
+		"0778_floor_01_partial_room_02_pano_12",
+		"0778_floor_01_partial_room_02_pano_9"
+	],
+	"0778_floor_01_partial_room_05_pano": [
+		"0778_floor_01_partial_room_05_pano_5",
+		"0778_floor_01_partial_room_05_pano_0",
+		"0778_floor_01_partial_room_05_pano_2",
+		"0778_floor_01_partial_room_05_pano_4",
+		"0778_floor_01_partial_room_05_pano_3"
+	],
+	"0778_floor_02_partial_room_07_pano": [
+		"0778_floor_02_partial_room_07_pano_37",
+		"0778_floor_02_partial_room_07_pano_36",
+		"0778_floor_02_partial_room_07_pano_39",
+		"0778_floor_02_partial_room_07_pano_38",
+		"0778_floor_02_partial_room_07_pano_40",
+		"0778_floor_02_partial_room_07_pano_41",
+		"0778_floor_02_partial_room_07_pano_44"
+	],
+	"0778_floor_02_partial_room_08_pano": [
+		"0778_floor_02_partial_room_08_pano_28",
+		"0778_floor_02_partial_room_08_pano_29",
+		"0778_floor_02_partial_room_08_pano_31",
+		"0778_floor_02_partial_room_08_pano_32",
+		"0778_floor_02_partial_room_08_pano_30"
+	],
+	"0785_floor_00_partial_room_03_pano": [
+		"0785_floor_00_partial_room_03_pano_41",
+		"0785_floor_00_partial_room_03_pano_40",
+		"0785_floor_00_partial_room_03_pano_42",
+		"0785_floor_00_partial_room_03_pano_44",
+		"0785_floor_00_partial_room_03_pano_43",
+		"0785_floor_00_partial_room_03_pano_45"
+	],
+	"0785_floor_01_partial_room_03_pano": [
+		"0785_floor_01_partial_room_03_pano_9",
+		"0785_floor_01_partial_room_03_pano_5",
+		"0785_floor_01_partial_room_03_pano_6",
+		"0785_floor_01_partial_room_03_pano_20",
+		"0785_floor_01_partial_room_03_pano_19"
+	],
+	"0792_floor_01_partial_room_01_pano": [
+		"0792_floor_01_partial_room_01_pano_28",
+		"0792_floor_01_partial_room_01_pano_27",
+		"0792_floor_01_partial_room_01_pano_30",
+		"0792_floor_01_partial_room_01_pano_31",
+		"0792_floor_01_partial_room_01_pano_32"
+	],
+	"0792_floor_01_partial_room_02_pano": [
+		"0792_floor_01_partial_room_02_pano_70",
+		"0792_floor_01_partial_room_02_pano_73",
+		"0792_floor_01_partial_room_02_pano_72",
+		"0792_floor_01_partial_room_02_pano_75",
+		"0792_floor_01_partial_room_02_pano_71",
+		"0792_floor_01_partial_room_02_pano_74",
+		"0792_floor_01_partial_room_02_pano_66",
+		"0792_floor_01_partial_room_02_pano_65",
+		"0792_floor_01_partial_room_02_pano_76",
+		"0792_floor_01_partial_room_02_pano_68",
+		"0792_floor_01_partial_room_02_pano_67",
+		"0792_floor_01_partial_room_02_pano_78",
+		"0792_floor_01_partial_room_02_pano_69"
+	],
+	"0792_floor_01_partial_room_03_pano": [
+		"0792_floor_01_partial_room_03_pano_127",
+		"0792_floor_01_partial_room_03_pano_126",
+		"0792_floor_01_partial_room_03_pano_128",
+		"0792_floor_01_partial_room_03_pano_123",
+		"0792_floor_01_partial_room_03_pano_124",
+		"0792_floor_01_partial_room_03_pano_130"
+	],
+	"0792_floor_01_partial_room_05_pano": [
+		"0792_floor_01_partial_room_05_pano_80",
+		"0792_floor_01_partial_room_05_pano_81",
+		"0792_floor_01_partial_room_05_pano_85",
+		"0792_floor_01_partial_room_05_pano_83",
+		"0792_floor_01_partial_room_05_pano_82",
+		"0792_floor_01_partial_room_05_pano_86",
+		"0792_floor_01_partial_room_05_pano_87",
+		"0792_floor_01_partial_room_05_pano_84",
+		"0792_floor_01_partial_room_05_pano_79"
+	],
+	"0792_floor_01_partial_room_08_pano": [
+		"0792_floor_01_partial_room_08_pano_119",
+		"0792_floor_01_partial_room_08_pano_115",
+		"0792_floor_01_partial_room_08_pano_118",
+		"0792_floor_01_partial_room_08_pano_117",
+		"0792_floor_01_partial_room_08_pano_112",
+		"0792_floor_01_partial_room_08_pano_122",
+		"0792_floor_01_partial_room_08_pano_114",
+		"0792_floor_01_partial_room_08_pano_116",
+		"0792_floor_01_partial_room_08_pano_111",
+		"0792_floor_01_partial_room_08_pano_110",
+		"0792_floor_01_partial_room_08_pano_113",
+		"0792_floor_01_partial_room_08_pano_121",
+		"0792_floor_01_partial_room_08_pano_120"
+	],
+	"0792_floor_01_partial_room_09_pano": [
+		"0792_floor_01_partial_room_09_pano_26",
+		"0792_floor_01_partial_room_09_pano_17",
+		"0792_floor_01_partial_room_09_pano_25",
+		"0792_floor_01_partial_room_09_pano_18",
+		"0792_floor_01_partial_room_09_pano_20",
+		"0792_floor_01_partial_room_09_pano_21",
+		"0792_floor_01_partial_room_09_pano_22",
+		"0792_floor_01_partial_room_09_pano_19",
+		"0792_floor_01_partial_room_09_pano_23",
+		"0792_floor_01_partial_room_09_pano_24"
+	],
+	"0792_floor_01_partial_room_10_pano": [
+		"0792_floor_01_partial_room_10_pano_108",
+		"0792_floor_01_partial_room_10_pano_105",
+		"0792_floor_01_partial_room_10_pano_104",
+		"0792_floor_01_partial_room_10_pano_103",
+		"0792_floor_01_partial_room_10_pano_107",
+		"0792_floor_01_partial_room_10_pano_106",
+		"0792_floor_01_partial_room_10_pano_102"
+	],
+	"0792_floor_01_partial_room_15_pano": [
+		"0792_floor_01_partial_room_15_pano_51",
+		"0792_floor_01_partial_room_15_pano_60",
+		"0792_floor_01_partial_room_15_pano_62",
+		"0792_floor_01_partial_room_15_pano_61",
+		"0792_floor_01_partial_room_15_pano_50",
+		"0792_floor_01_partial_room_15_pano_42",
+		"0792_floor_01_partial_room_15_pano_64",
+		"0792_floor_01_partial_room_15_pano_52",
+		"0792_floor_01_partial_room_15_pano_63",
+		"0792_floor_01_partial_room_15_pano_54",
+		"0792_floor_01_partial_room_15_pano_55",
+		"0792_floor_01_partial_room_15_pano_43",
+		"0792_floor_01_partial_room_15_pano_56",
+		"0792_floor_01_partial_room_15_pano_44",
+		"0792_floor_01_partial_room_15_pano_57",
+		"0792_floor_01_partial_room_15_pano_46",
+		"0792_floor_01_partial_room_15_pano_45",
+		"0792_floor_01_partial_room_15_pano_59",
+		"0792_floor_01_partial_room_15_pano_48",
+		"0792_floor_01_partial_room_15_pano_47",
+		"0792_floor_01_partial_room_15_pano_49",
+		"0792_floor_01_partial_room_15_pano_58"
+	],
+	"0792_floor_01_partial_room_19_pano": [
+		"0792_floor_01_partial_room_19_pano_5",
+		"0792_floor_01_partial_room_19_pano_6",
+		"0792_floor_01_partial_room_19_pano_7",
+		"0792_floor_01_partial_room_19_pano_9",
+		"0792_floor_01_partial_room_19_pano_8",
+		"0792_floor_01_partial_room_19_pano_2",
+		"0792_floor_01_partial_room_19_pano_10",
+		"0792_floor_01_partial_room_19_pano_4",
+		"0792_floor_01_partial_room_19_pano_3"
+	],
+	"0792_floor_01_partial_room_20_pano": [
+		"0792_floor_01_partial_room_20_pano_95",
+		"0792_floor_01_partial_room_20_pano_94",
+		"0792_floor_01_partial_room_20_pano_100",
+		"0792_floor_01_partial_room_20_pano_99",
+		"0792_floor_01_partial_room_20_pano_97",
+		"0792_floor_01_partial_room_20_pano_96",
+		"0792_floor_01_partial_room_20_pano_98"
+	],
+	"0792_floor_01_partial_room_23_pano": [
+		"0792_floor_01_partial_room_23_pano_37",
+		"0792_floor_01_partial_room_23_pano_36",
+		"0792_floor_01_partial_room_23_pano_39",
+		"0792_floor_01_partial_room_23_pano_34",
+		"0792_floor_01_partial_room_23_pano_35",
+		"0792_floor_01_partial_room_23_pano_33"
+	],
+	"0819_floor_01_partial_room_04_pano": [
+		"0819_floor_01_partial_room_04_pano_6",
+		"0819_floor_01_partial_room_04_pano_5",
+		"0819_floor_01_partial_room_04_pano_3",
+		"0819_floor_01_partial_room_04_pano_4",
+		"0819_floor_01_partial_room_04_pano_17",
+		"0819_floor_01_partial_room_04_pano_12"
+	],
+	"0880_floor_00_partial_room_05_pano": [
+		"0880_floor_00_partial_room_05_pano_53",
+		"0880_floor_00_partial_room_05_pano_70",
+		"0880_floor_00_partial_room_05_pano_55",
+		"0880_floor_00_partial_room_05_pano_65",
+		"0880_floor_00_partial_room_05_pano_54"
+	],
+	"0880_floor_01_partial_room_10_pano": [
+		"0880_floor_01_partial_room_10_pano_17",
+		"0880_floor_01_partial_room_10_pano_16",
+		"0880_floor_01_partial_room_10_pano_18",
+		"0880_floor_01_partial_room_10_pano_21",
+		"0880_floor_01_partial_room_10_pano_24"
+	],
+	"0880_floor_02_partial_room_05_pano": [
+		"0880_floor_02_partial_room_05_pano_77",
+		"0880_floor_02_partial_room_05_pano_84",
+		"0880_floor_02_partial_room_05_pano_81",
+		"0880_floor_02_partial_room_05_pano_79",
+		"0880_floor_02_partial_room_05_pano_78"
+	],
+	"0941_floor_01_partial_room_04_pano": [
+		"0941_floor_01_partial_room_04_pano_8",
+		"0941_floor_01_partial_room_04_pano_11",
+		"0941_floor_01_partial_room_04_pano_9",
+		"0941_floor_01_partial_room_04_pano_10",
+		"0941_floor_01_partial_room_04_pano_12"
+	],
+	"0941_floor_01_partial_room_07_pano": [
+		"0941_floor_01_partial_room_07_pano_47",
+		"0941_floor_01_partial_room_07_pano_42",
+		"0941_floor_01_partial_room_07_pano_41",
+		"0941_floor_01_partial_room_07_pano_43",
+		"0941_floor_01_partial_room_07_pano_44"
+	],
+	"0944_floor_01_partial_room_04_pano": [
+		"0944_floor_01_partial_room_04_pano_32",
+		"0944_floor_01_partial_room_04_pano_33",
+		"0944_floor_01_partial_room_04_pano_31",
+		"0944_floor_01_partial_room_04_pano_35",
+		"0944_floor_01_partial_room_04_pano_34"
+	],
+	"0944_floor_02_partial_room_02_pano": [
+		"0944_floor_02_partial_room_02_pano_69",
+		"0944_floor_02_partial_room_02_pano_70",
+		"0944_floor_02_partial_room_02_pano_66",
+		"0944_floor_02_partial_room_02_pano_68",
+		"0944_floor_02_partial_room_02_pano_67"
+	],
+	"0957_floor_01_partial_room_04_pano": [
+		"0957_floor_01_partial_room_04_pano_5",
+		"0957_floor_01_partial_room_04_pano_8",
+		"0957_floor_01_partial_room_04_pano_0",
+		"0957_floor_01_partial_room_04_pano_11",
+		"0957_floor_01_partial_room_04_pano_3",
+		"0957_floor_01_partial_room_04_pano_10",
+		"0957_floor_01_partial_room_04_pano_4"
+	],
+	"0957_floor_01_partial_room_06_pano": [
+		"0957_floor_01_partial_room_06_pano_15",
+		"0957_floor_01_partial_room_06_pano_14",
+		"0957_floor_01_partial_room_06_pano_17",
+		"0957_floor_01_partial_room_06_pano_16",
+		"0957_floor_01_partial_room_06_pano_18"
+	],
+	"0957_floor_02_partial_room_01_pano": [
+		"0957_floor_02_partial_room_01_pano_40",
+		"0957_floor_02_partial_room_01_pano_42",
+		"0957_floor_02_partial_room_01_pano_46",
+		"0957_floor_02_partial_room_01_pano_41",
+		"0957_floor_02_partial_room_01_pano_45"
+	],
+	"0969_floor_02_partial_room_01_pano": [
+		"0969_floor_02_partial_room_01_pano_25",
+		"0969_floor_02_partial_room_01_pano_28",
+		"0969_floor_02_partial_room_01_pano_30",
+		"0969_floor_02_partial_room_01_pano_33",
+		"0969_floor_02_partial_room_01_pano_27"
+	],
+	"0990_floor_01_partial_room_01_pano": [
+		"0990_floor_01_partial_room_01_pano_17",
+		"0990_floor_01_partial_room_01_pano_16",
+		"0990_floor_01_partial_room_01_pano_18",
+		"0990_floor_01_partial_room_01_pano_11",
+		"0990_floor_01_partial_room_01_pano_12"
+	],
+	"0990_floor_01_partial_room_05_pano": [
+		"0990_floor_01_partial_room_05_pano_15",
+		"0990_floor_01_partial_room_05_pano_5",
+		"0990_floor_01_partial_room_05_pano_9",
+		"0990_floor_01_partial_room_05_pano_4",
+		"0990_floor_01_partial_room_05_pano_3"
+	],
+	"0990_floor_02_partial_room_07_pano": [
+		"0990_floor_02_partial_room_07_pano_37",
+		"0990_floor_02_partial_room_07_pano_36",
+		"0990_floor_02_partial_room_07_pano_33",
+		"0990_floor_02_partial_room_07_pano_35",
+		"0990_floor_02_partial_room_07_pano_34"
+	],
+	"1001_floor_01_partial_room_13_pano": [
+		"1001_floor_01_partial_room_13_pano_6",
+		"1001_floor_01_partial_room_13_pano_5",
+		"1001_floor_01_partial_room_13_pano_8",
+		"1001_floor_01_partial_room_13_pano_4",
+		"1001_floor_01_partial_room_13_pano_3"
+	],
+	"1025_floor_01_partial_room_02_pano": [
+		"1025_floor_01_partial_room_02_pano_42",
+		"1025_floor_01_partial_room_02_pano_44",
+		"1025_floor_01_partial_room_02_pano_33",
+		"1025_floor_01_partial_room_02_pano_34",
+		"1025_floor_01_partial_room_02_pano_35"
+	],
+	"1025_floor_01_partial_room_13_pano": [
+		"1025_floor_01_partial_room_13_pano_6",
+		"1025_floor_01_partial_room_13_pano_9",
+		"1025_floor_01_partial_room_13_pano_5",
+		"1025_floor_01_partial_room_13_pano_1",
+		"1025_floor_01_partial_room_13_pano_4"
+	],
+	"1050_floor_01_partial_room_01_pano": [
+		"1050_floor_01_partial_room_01_pano_28",
+		"1050_floor_01_partial_room_01_pano_33",
+		"1050_floor_01_partial_room_01_pano_31",
+		"1050_floor_01_partial_room_01_pano_32",
+		"1050_floor_01_partial_room_01_pano_24",
+		"1050_floor_01_partial_room_01_pano_34"
+	],
+	"1050_floor_01_partial_room_04_pano": [
+		"1050_floor_01_partial_room_04_pano_6",
+		"1050_floor_01_partial_room_04_pano_5",
+		"1050_floor_01_partial_room_04_pano_8",
+		"1050_floor_01_partial_room_04_pano_46",
+		"1050_floor_01_partial_room_04_pano_7",
+		"1050_floor_01_partial_room_04_pano_4"
+	],
+	"1050_floor_01_partial_room_08_pano": [
+		"1050_floor_01_partial_room_08_pano_15",
+		"1050_floor_01_partial_room_08_pano_14",
+		"1050_floor_01_partial_room_08_pano_17",
+		"1050_floor_01_partial_room_08_pano_25",
+		"1050_floor_01_partial_room_08_pano_16",
+		"1050_floor_01_partial_room_08_pano_18",
+		"1050_floor_01_partial_room_08_pano_23"
+	],
+	"1050_floor_02_partial_room_04_pano": [
+		"1050_floor_02_partial_room_04_pano_73",
+		"1050_floor_02_partial_room_04_pano_62",
+		"1050_floor_02_partial_room_04_pano_50",
+		"1050_floor_02_partial_room_04_pano_61",
+		"1050_floor_02_partial_room_04_pano_76",
+		"1050_floor_02_partial_room_04_pano_65"
+	],
+	"1069_floor_01_partial_room_06_pano": [
+		"1069_floor_01_partial_room_06_pano_0",
+		"1069_floor_01_partial_room_06_pano_2",
+		"1069_floor_01_partial_room_06_pano_1",
+		"1069_floor_01_partial_room_06_pano_4",
+		"1069_floor_01_partial_room_06_pano_13"
+	],
+	"1103_floor_01_partial_room_01_pano": [
+		"1103_floor_01_partial_room_01_pano_19",
+		"1103_floor_01_partial_room_01_pano_14",
+		"1103_floor_01_partial_room_01_pano_13",
+		"1103_floor_01_partial_room_01_pano_20",
+		"1103_floor_01_partial_room_01_pano_12"
+	],
+	"1103_floor_01_partial_room_07_pano": [
+		"1103_floor_01_partial_room_07_pano_6",
+		"1103_floor_01_partial_room_07_pano_5",
+		"1103_floor_01_partial_room_07_pano_7",
+		"1103_floor_01_partial_room_07_pano_11",
+		"1103_floor_01_partial_room_07_pano_4",
+		"1103_floor_01_partial_room_07_pano_10"
+	],
+	"1103_floor_01_partial_room_08_pano": [
+		"1103_floor_01_partial_room_08_pano_26",
+		"1103_floor_01_partial_room_08_pano_27",
+		"1103_floor_01_partial_room_08_pano_25",
+		"1103_floor_01_partial_room_08_pano_22",
+		"1103_floor_01_partial_room_08_pano_21"
+	],
+	"1103_floor_02_partial_room_10_pano": [
+		"1103_floor_02_partial_room_10_pano_47",
+		"1103_floor_02_partial_room_10_pano_40",
+		"1103_floor_02_partial_room_10_pano_58",
+		"1103_floor_02_partial_room_10_pano_51",
+		"1103_floor_02_partial_room_10_pano_50",
+		"1103_floor_02_partial_room_10_pano_46",
+		"1103_floor_02_partial_room_10_pano_41"
+	],
+	"1160_floor_01_partial_room_01_pano": [
+		"1160_floor_01_partial_room_01_pano_8",
+		"1160_floor_01_partial_room_01_pano_7",
+		"1160_floor_01_partial_room_01_pano_6",
+		"1160_floor_01_partial_room_01_pano_9",
+		"1160_floor_01_partial_room_01_pano_12"
+	],
+	"1167_floor_01_partial_room_02_pano": [
+		"1167_floor_01_partial_room_02_pano_9",
+		"1167_floor_01_partial_room_02_pano_6",
+		"1167_floor_01_partial_room_02_pano_2",
+		"1167_floor_01_partial_room_02_pano_3",
+		"1167_floor_01_partial_room_02_pano_11"
+	],
+	"1169_floor_01_partial_room_01_pano": [
+		"1169_floor_01_partial_room_01_pano_19",
+		"1169_floor_01_partial_room_01_pano_2",
+		"1169_floor_01_partial_room_01_pano_5",
+		"1169_floor_01_partial_room_01_pano_4",
+		"1169_floor_01_partial_room_01_pano_3"
+	],
+	"1175_floor_01_partial_room_04_pano": [
+		"1175_floor_01_partial_room_04_pano_51",
+		"1175_floor_01_partial_room_04_pano_9",
+		"1175_floor_01_partial_room_04_pano_8",
+		"1175_floor_01_partial_room_04_pano_11",
+		"1175_floor_01_partial_room_04_pano_10"
+	],
+	"1177_floor_01_partial_room_07_pano": [
+		"1177_floor_01_partial_room_07_pano_8",
+		"1177_floor_01_partial_room_07_pano_7",
+		"1177_floor_01_partial_room_07_pano_17",
+		"1177_floor_01_partial_room_07_pano_10",
+		"1177_floor_01_partial_room_07_pano_12"
+	],
+	"1177_floor_02_partial_room_01_pano": [
+		"1177_floor_02_partial_room_01_pano_36",
+		"1177_floor_02_partial_room_01_pano_40",
+		"1177_floor_02_partial_room_01_pano_41",
+		"1177_floor_02_partial_room_01_pano_38",
+		"1177_floor_02_partial_room_01_pano_35"
+	],
+	"1184_floor_01_partial_room_02_pano": [
+		"1184_floor_01_partial_room_02_pano_37",
+		"1184_floor_01_partial_room_02_pano_0",
+		"1184_floor_01_partial_room_02_pano_4",
+		"1184_floor_01_partial_room_02_pano_6",
+		"1184_floor_01_partial_room_02_pano_5"
+	],
+	"1184_floor_01_partial_room_10_pano": [
+		"1184_floor_01_partial_room_10_pano_14",
+		"1184_floor_01_partial_room_10_pano_15",
+		"1184_floor_01_partial_room_10_pano_18",
+		"1184_floor_01_partial_room_10_pano_16",
+		"1184_floor_01_partial_room_10_pano_21"
+	],
+	"1184_floor_02_partial_room_15_pano": [
+		"1184_floor_02_partial_room_15_pano_39",
+		"1184_floor_02_partial_room_15_pano_49",
+		"1184_floor_02_partial_room_15_pano_40",
+		"1184_floor_02_partial_room_15_pano_38",
+		"1184_floor_02_partial_room_15_pano_54"
+	],
+	"1207_floor_01_partial_room_10_pano": [
+		"1207_floor_01_partial_room_10_pano_8",
+		"1207_floor_01_partial_room_10_pano_5",
+		"1207_floor_01_partial_room_10_pano_9",
+		"1207_floor_01_partial_room_10_pano_7",
+		"1207_floor_01_partial_room_10_pano_6"
+	],
+	"1207_floor_02_partial_room_14_pano": [
+		"1207_floor_02_partial_room_14_pano_40",
+		"1207_floor_02_partial_room_14_pano_42",
+		"1207_floor_02_partial_room_14_pano_41",
+		"1207_floor_02_partial_room_14_pano_44",
+		"1207_floor_02_partial_room_14_pano_43"
+	],
+	"1214_floor_01_partial_room_18_pano": [
+		"1214_floor_01_partial_room_18_pano_26",
+		"1214_floor_01_partial_room_18_pano_2",
+		"1214_floor_01_partial_room_18_pano_0",
+		"1214_floor_01_partial_room_18_pano_1",
+		"1214_floor_01_partial_room_18_pano_3"
+	],
+	"1218_floor_01_partial_room_01_pano": [
+		"1218_floor_01_partial_room_01_pano_36",
+		"1218_floor_01_partial_room_01_pano_38",
+		"1218_floor_01_partial_room_01_pano_40",
+		"1218_floor_01_partial_room_01_pano_37",
+		"1218_floor_01_partial_room_01_pano_33",
+		"1218_floor_01_partial_room_01_pano_35",
+		"1218_floor_01_partial_room_01_pano_34"
+	],
+	"1218_floor_01_partial_room_05_pano": [
+		"1218_floor_01_partial_room_05_pano_26",
+		"1218_floor_01_partial_room_05_pano_28",
+		"1218_floor_01_partial_room_05_pano_25",
+		"1218_floor_01_partial_room_05_pano_27",
+		"1218_floor_01_partial_room_05_pano_29"
+	],
+	"1218_floor_01_partial_room_08_pano": [
+		"1218_floor_01_partial_room_08_pano_17",
+		"1218_floor_01_partial_room_08_pano_19",
+		"1218_floor_01_partial_room_08_pano_16",
+		"1218_floor_01_partial_room_08_pano_18",
+		"1218_floor_01_partial_room_08_pano_20",
+		"1218_floor_01_partial_room_08_pano_30",
+		"1218_floor_01_partial_room_08_pano_46"
+	],
+	"1239_floor_01_partial_room_03_pano": [
+		"1239_floor_01_partial_room_03_pano_15",
+		"1239_floor_01_partial_room_03_pano_14",
+		"1239_floor_01_partial_room_03_pano_16",
+		"1239_floor_01_partial_room_03_pano_13",
+		"1239_floor_01_partial_room_03_pano_12"
+	],
+	"1239_floor_01_partial_room_10_pano": [
+		"1239_floor_01_partial_room_10_pano_31",
+		"1239_floor_01_partial_room_10_pano_37",
+		"1239_floor_01_partial_room_10_pano_30",
+		"1239_floor_01_partial_room_10_pano_33",
+		"1239_floor_01_partial_room_10_pano_32",
+		"1239_floor_01_partial_room_10_pano_35",
+		"1239_floor_01_partial_room_10_pano_34"
+	],
+	"1239_floor_01_partial_room_11_pano": [
+		"1239_floor_01_partial_room_11_pano_8",
+		"1239_floor_01_partial_room_11_pano_7",
+		"1239_floor_01_partial_room_11_pano_9",
+		"1239_floor_01_partial_room_11_pano_24",
+		"1239_floor_01_partial_room_11_pano_10"
+	],
+	"1248_floor_02_partial_room_08_pano": [
+		"1248_floor_02_partial_room_08_pano_44",
+		"1248_floor_02_partial_room_08_pano_42",
+		"1248_floor_02_partial_room_08_pano_46",
+		"1248_floor_02_partial_room_08_pano_45",
+		"1248_floor_02_partial_room_08_pano_43"
+	],
+	"1268_floor_01_partial_room_05_pano": [
+		"1268_floor_01_partial_room_05_pano_15",
+		"1268_floor_01_partial_room_05_pano_6",
+		"1268_floor_01_partial_room_05_pano_5",
+		"1268_floor_01_partial_room_05_pano_7",
+		"1268_floor_01_partial_room_05_pano_4"
+	],
+	"1268_floor_01_partial_room_06_pano": [
+		"1268_floor_01_partial_room_06_pano_39",
+		"1268_floor_01_partial_room_06_pano_38",
+		"1268_floor_01_partial_room_06_pano_31",
+		"1268_floor_01_partial_room_06_pano_32",
+		"1268_floor_01_partial_room_06_pano_41"
+	],
+	"1317_floor_01_partial_room_09_pano": [
+		"1317_floor_01_partial_room_09_pano_19",
+		"1317_floor_01_partial_room_09_pano_13",
+		"1317_floor_01_partial_room_09_pano_12",
+		"1317_floor_01_partial_room_09_pano_15",
+		"1317_floor_01_partial_room_09_pano_14"
+	],
+	"1330_floor_01_partial_room_07_pano": [
+		"1330_floor_01_partial_room_07_pano_59",
+		"1330_floor_01_partial_room_07_pano_60",
+		"1330_floor_01_partial_room_07_pano_61",
+		"1330_floor_01_partial_room_07_pano_62",
+		"1330_floor_01_partial_room_07_pano_63"
+	],
+	"1330_floor_01_partial_room_09_pano": [
+		"1330_floor_01_partial_room_09_pano_19",
+		"1330_floor_01_partial_room_09_pano_22",
+		"1330_floor_01_partial_room_09_pano_18",
+		"1330_floor_01_partial_room_09_pano_20",
+		"1330_floor_01_partial_room_09_pano_21"
+	],
+	"1330_floor_01_partial_room_10_pano": [
+		"1330_floor_01_partial_room_10_pano_29",
+		"1330_floor_01_partial_room_10_pano_30",
+		"1330_floor_01_partial_room_10_pano_31",
+		"1330_floor_01_partial_room_10_pano_33",
+		"1330_floor_01_partial_room_10_pano_32"
+	],
+	"1330_floor_01_partial_room_11_pano": [
+		"1330_floor_01_partial_room_11_pano_58",
+		"1330_floor_01_partial_room_11_pano_55",
+		"1330_floor_01_partial_room_11_pano_57",
+		"1330_floor_01_partial_room_11_pano_54",
+		"1330_floor_01_partial_room_11_pano_56"
+	],
+	"1330_floor_01_partial_room_13_pano": [
+		"1330_floor_01_partial_room_13_pano_8",
+		"1330_floor_01_partial_room_13_pano_9",
+		"1330_floor_01_partial_room_13_pano_11",
+		"1330_floor_01_partial_room_13_pano_10",
+		"1330_floor_01_partial_room_13_pano_12"
+	],
+	"1330_floor_01_partial_room_16_pano": [
+		"1330_floor_01_partial_room_16_pano_26",
+		"1330_floor_01_partial_room_16_pano_27",
+		"1330_floor_01_partial_room_16_pano_28",
+		"1330_floor_01_partial_room_16_pano_48",
+		"1330_floor_01_partial_room_16_pano_35"
+	],
+	"1348_floor_01_partial_room_01_pano": [
+		"1348_floor_01_partial_room_01_pano_5",
+		"1348_floor_01_partial_room_01_pano_6",
+		"1348_floor_01_partial_room_01_pano_14",
+		"1348_floor_01_partial_room_01_pano_9"
+	],
+	"1348_floor_01_partial_room_05_pano": [
+		"1348_floor_01_partial_room_05_pano_48",
+		"1348_floor_01_partial_room_05_pano_40",
+		"1348_floor_01_partial_room_05_pano_42",
+		"1348_floor_01_partial_room_05_pano_41"
+	],
+	"1368_floor_01_partial_room_03_pano": [
+		"1368_floor_01_partial_room_03_pano_36",
+		"1368_floor_01_partial_room_03_pano_53",
+		"1368_floor_01_partial_room_03_pano_40",
+		"1368_floor_01_partial_room_03_pano_44",
+		"1368_floor_01_partial_room_03_pano_43"
+	],
+	"1368_floor_01_partial_room_04_pano": [
+		"1368_floor_01_partial_room_04_pano_15",
+		"1368_floor_01_partial_room_04_pano_16",
+		"1368_floor_01_partial_room_04_pano_17",
+		"1368_floor_01_partial_room_04_pano_14",
+		"1368_floor_01_partial_room_04_pano_32",
+		"1368_floor_01_partial_room_04_pano_13",
+		"1368_floor_01_partial_room_04_pano_20",
+		"1368_floor_01_partial_room_04_pano_11",
+		"1368_floor_01_partial_room_04_pano_12"
+	],
+	"1368_floor_01_partial_room_07_pano": [
+		"1368_floor_01_partial_room_07_pano_25",
+		"1368_floor_01_partial_room_07_pano_26",
+		"1368_floor_01_partial_room_07_pano_27",
+		"1368_floor_01_partial_room_07_pano_28",
+		"1368_floor_01_partial_room_07_pano_29",
+		"1368_floor_01_partial_room_07_pano_31"
+	],
+	"1368_floor_01_partial_room_09_pano": [
+		"1368_floor_01_partial_room_09_pano_71",
+		"1368_floor_01_partial_room_09_pano_55",
+		"1368_floor_01_partial_room_09_pano_61",
+		"1368_floor_01_partial_room_09_pano_54",
+		"1368_floor_01_partial_room_09_pano_57",
+		"1368_floor_01_partial_room_09_pano_56"
+	],
+	"1368_floor_01_partial_room_13_pano": [
+		"1368_floor_01_partial_room_13_pano_19",
+		"1368_floor_01_partial_room_13_pano_18",
+		"1368_floor_01_partial_room_13_pano_21",
+		"1368_floor_01_partial_room_13_pano_24"
+	],
+	"1398_floor_01_partial_room_01_pano": [
+		"1398_floor_01_partial_room_01_pano_7",
+		"1398_floor_01_partial_room_01_pano_4",
+		"1398_floor_01_partial_room_01_pano_6",
+		"1398_floor_01_partial_room_01_pano_5",
+		"1398_floor_01_partial_room_01_pano_8"
+	],
+	"1398_floor_01_partial_room_02_pano": [
+		"1398_floor_01_partial_room_02_pano_15",
+		"1398_floor_01_partial_room_02_pano_17",
+		"1398_floor_01_partial_room_02_pano_16",
+		"1398_floor_01_partial_room_02_pano_18",
+		"1398_floor_01_partial_room_02_pano_13"
+	],
+	"1398_floor_01_partial_room_19_pano": [
+		"1398_floor_01_partial_room_19_pano_59",
+		"1398_floor_01_partial_room_19_pano_73",
+		"1398_floor_01_partial_room_19_pano_62",
+		"1398_floor_01_partial_room_19_pano_60",
+		"1398_floor_01_partial_room_19_pano_61",
+		"1398_floor_01_partial_room_19_pano_63",
+		"1398_floor_01_partial_room_19_pano_65"
+	],
+	"1400_floor_01_partial_room_07_pano": [
+		"1400_floor_01_partial_room_07_pano_6",
+		"1400_floor_01_partial_room_07_pano_5",
+		"1400_floor_01_partial_room_07_pano_4",
+		"1400_floor_01_partial_room_07_pano_0",
+		"1400_floor_01_partial_room_07_pano_3"
+	],
+	"1404_floor_02_partial_room_04_pano": [
+		"1404_floor_02_partial_room_04_pano_51",
+		"1404_floor_02_partial_room_04_pano_50",
+		"1404_floor_02_partial_room_04_pano_53",
+		"1404_floor_02_partial_room_04_pano_54"
+	],
+	"1485_floor_01_partial_room_03_pano": [
+		"1485_floor_01_partial_room_03_pano_17",
+		"1485_floor_01_partial_room_03_pano_15",
+		"1485_floor_01_partial_room_03_pano_19",
+		"1485_floor_01_partial_room_03_pano_18",
+		"1485_floor_01_partial_room_03_pano_20"
+	],
+	"1485_floor_01_partial_room_11_pano": [
+		"1485_floor_01_partial_room_11_pano_29",
+		"1485_floor_01_partial_room_11_pano_28",
+		"1485_floor_01_partial_room_11_pano_31",
+		"1485_floor_01_partial_room_11_pano_30",
+		"1485_floor_01_partial_room_11_pano_32"
+	],
+	"1485_floor_01_partial_room_16_pano": [
+		"1485_floor_01_partial_room_16_pano_42",
+		"1485_floor_01_partial_room_16_pano_41",
+		"1485_floor_01_partial_room_16_pano_43",
+		"1485_floor_01_partial_room_16_pano_45",
+		"1485_floor_01_partial_room_16_pano_46"
+	],
+	"1488_floor_02_partial_room_01_pano": [
+		"1488_floor_02_partial_room_01_pano_27",
+		"1488_floor_02_partial_room_01_pano_26",
+		"1488_floor_02_partial_room_01_pano_31",
+		"1488_floor_02_partial_room_01_pano_38",
+		"1488_floor_02_partial_room_01_pano_30",
+		"1488_floor_02_partial_room_01_pano_43"
+	],
+	"1490_floor_01_partial_room_04_pano": [
+		"1490_floor_01_partial_room_04_pano_6",
+		"1490_floor_01_partial_room_04_pano_8",
+		"1490_floor_01_partial_room_04_pano_9",
+		"1490_floor_01_partial_room_04_pano_19",
+		"1490_floor_01_partial_room_04_pano_11",
+		"1490_floor_01_partial_room_04_pano_7",
+		"1490_floor_01_partial_room_04_pano_10"
+	],
+	"1506_floor_00_partial_room_03_pano": [
+		"1506_floor_00_partial_room_03_pano_19",
+		"1506_floor_00_partial_room_03_pano_18",
+		"1506_floor_00_partial_room_03_pano_20",
+		"1506_floor_00_partial_room_03_pano_24",
+		"1506_floor_00_partial_room_03_pano_23"
+	],
+	"1506_floor_01_partial_room_04_pano": [
+		"1506_floor_01_partial_room_04_pano_6",
+		"1506_floor_01_partial_room_04_pano_0",
+		"1506_floor_01_partial_room_04_pano_2",
+		"1506_floor_01_partial_room_04_pano_3",
+		"1506_floor_01_partial_room_04_pano_1"
+	],
+	"1551_floor_01_partial_room_01_pano": [
+		"1551_floor_01_partial_room_01_pano_14",
+		"1551_floor_01_partial_room_01_pano_7",
+		"1551_floor_01_partial_room_01_pano_9",
+		"1551_floor_01_partial_room_01_pano_11",
+		"1551_floor_01_partial_room_01_pano_10"
+	],
+	"1551_floor_01_partial_room_03_pano": [
+		"1551_floor_01_partial_room_03_pano_6",
+		"1551_floor_01_partial_room_03_pano_5",
+		"1551_floor_01_partial_room_03_pano_17",
+		"1551_floor_01_partial_room_03_pano_4",
+		"1551_floor_01_partial_room_03_pano_3"
+	]
+}
