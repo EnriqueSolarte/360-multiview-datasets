@@ -10,6 +10,6 @@ setup(
     install_requires=requirements,
     author="Enrique Solarte",
     author_email="enrique.solarte.pardo@gmail.com",
-    description=("A collection of datasets for multiview learning"),
+    description=("A collection of datasets for multiview"),
     license="BSD",
 )
