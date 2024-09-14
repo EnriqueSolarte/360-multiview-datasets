@@ -1,0 +1,17 @@
+
+defaults:
+  - general
+  - google_drive_lists_ids
+  - _self_
+
+log_dir: ${output_dir}/logs
+
+download:
+  - ${gdrive_hm3d_mvl.labels_fn}
+  - ${gdrive_hm3d_mvl.data_fn}
+
+output_dir: /media/datasets/mvl_datasets/tests
+
+hydra:
+  searchpath:
+    - ${oc.env:DATASETS_CFG}

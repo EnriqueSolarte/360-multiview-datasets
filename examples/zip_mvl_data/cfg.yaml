@@ -1,0 +1,24 @@
+dataset_name: zind_mvl
+datasets_dir: /media/datasets/mvl_datasets
+
+output_dir: ${datasets_dir}/zips/${dataset_name}/
+log_dir: ${output_dir}/logs/${date}_${time}
+
+defaults:
+  - general #defined in DATASETS_CFG
+  - _self_
+
+mvl_dataset:
+  dir: ${datasets_dir}/${dataset_name}
+  dataset_name: ${dataset_name}
+  img_dir: ${mvl_dataset.dir}/img
+  geometry_info_dir: ${mvl_dataset.dir}/geometry_info
+  # labels_dir: ${mvl_dataset.dir}/labels/phi_coords
+  labels_dir: ${mvl_dataset.dir}/labels/layout_visible
+
+
+  
+hydra:
+  searchpath:
+    - ${oc.env:DATASETS_CFG}
+ 
