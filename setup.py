@@ -8,6 +8,9 @@ setup(
     version="0.1",
     packages=find_packages(),
     install_requires=requirements,
+    package_data={
+        "multiview-datasets-dev": ["config/**"],
+    },
     author="Enrique Solarte",
     author_email="enrique.solarte.pardo@gmail.com",
     description=("A collection of datasets for multiview"),
