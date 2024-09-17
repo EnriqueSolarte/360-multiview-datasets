@@ -13,4 +13,3 @@ shapely
 pyransac3d
 scikit-image
 geometry-perception-utils-dev @ git+https://github.com/EnriqueSolarte/geometry_perception_utils.git@570039d48711ce37577cde4776f99ce927fa90eb
-layout_models @ git+https://github.com/EnriqueSolarte/layout_models.git@6d4c645440ae5c03db20fd0ad0ffe43ae1c640c2
