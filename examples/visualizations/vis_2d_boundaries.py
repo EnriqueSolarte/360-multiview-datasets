@@ -13,13 +13,15 @@ from tqdm import tqdm
             config_name="cfg")
 def main(cfg):
     data = load_mvl_dataset(cfg.mvl_dataset)
-    list_ly = data.get_list_ly()
+    list_ly = data.get_list_ly(idx=3)
     [ly.set_gt_phi_coords_as_default() for ly in list_ly]
 
     for ly in tqdm(list_ly):
         img = ly.get_rgb()
         img = draw_boundaries_phi_coords(img, ly.gt_phi_coord)
-        imwrite(f"{cfg.log_dir}/boundaries.jpg", img)
+        fn = f"{cfg.log_dir}/boundaries.jpg"
+        imwrite(fn, img)
+        print(f"Image Visualization save at {fn}")
         input("Press Enter to continue...")
 
 

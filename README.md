@@ -62,6 +62,18 @@ python examples/download_mvl_data/mvl_datasets.py dir_mvl_dataset=${DIR_DATASET}
 python examples/download_mvl_data/mvl_datasets.py
 ```
 
+After you download the dataset, you can visualize and check it as follows: 
+```bash
+
+python examples/visualizations/vis_2d_boundaries.py dir_datasets=${DIR_DATASET}
+
+python examples/visualizations/vis_3d_boundaries.py dir_datasets=${DIR_DATASET}
+
+```
+vis_2d_boundaries.py             |  vis_3d_boundaries.py
+:-------------------------:|:-------------------------:
+![](assets/vis_2d_boundaries.png)  |  ![](assets/vis_3d_boundaries.png)
+
 > [!NOTE]
 > These datasets were officially proposed in [360-MLC - NeuriPS'22](https://github.com/EnriqueSolarte/360-mlc) and [Ray-casting MLC - ECCV'24](https://github.com/EnriqueSolarte/ray_casting_mlc?tab=readme-ov-file). If you use them, please cite them accordingly. 
 

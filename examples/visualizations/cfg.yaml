@@ -8,6 +8,7 @@ defaults:
   - _self_
 
 dir_datasets: /media/datasets/mvl_datasets/dataset
+# dir_datasets: ${oc.env:HOME}/mvl_datasets
 
 mvl_dataset: ${datasets.hm3d_mvl}
   
