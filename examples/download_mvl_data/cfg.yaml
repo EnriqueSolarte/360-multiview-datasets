@@ -1,17 +1,22 @@
+# *****************************************************************************
+# This is where the dataset will be stored
+dir_mvl_dataset: ${oc.env:HOME}/mvl_datasets
+# *****************************************************************************
 
 defaults:
   - general
-  - google_drive_lists_ids
-  - _self_
 
-log_dir: ${output_dir}/logs
-
-download:
-  - ${gdrive_hm3d_mvl.labels_fn}
-  - ${gdrive_hm3d_mvl.data_fn}
-
-output_dir: /media/datasets/mvl_datasets/tests
+dataset: hm3d_mvl  # mp3d_fpe_mvl, zind_mvl
+huggingface:
+  # You have to request access to the dataset first here
+  # https://huggingface.co/datasets/EnriqueSolarte/mvl_datasets
+  repo_id: "EnriqueSolarte/mvl_datasets"
+  revision: ${dataset} 
+  
+zip_dir: ${dir_mvl_dataset}/zipped_data
+dir_datasets: ${dir_mvl_dataset}/mvl_datasets
+dir_trained_models: ${dir_mvl_dataset}/trained_models
 
 hydra:
   searchpath:
-    - ${oc.env:DATASETS_CFG}
+    - ${oc.env:GEOM_UTILS_CFG_DIR}
