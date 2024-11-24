@@ -63,7 +63,8 @@ python examples/download_mvl_data/mvl_datasets.py
 ```
 
 > [!NOTE]
-> The projects [360-MLC - NeuriPS'22](https://github.com/EnriqueSolarte/360-mlc) and [Ray-casting MLC - ECCV'24](https://github.com/EnriqueSolarte/ray_casting_mlc?tab=readme-ov-file) proposes and uses these datasets. If you use them, please cite them accordingly. 
+> These datasets were officially proposed in [360-MLC - NeuriPS'22](https://github.com/EnriqueSolarte/360-mlc) and [Ray-casting MLC - ECCV'24](https://github.com/EnriqueSolarte/ray_casting_mlc?tab=readme-ov-file). If you use them, please cite them accordingly. 
+
 
 For the `hm3d_mvl` dataset please cite the following paper:
 
