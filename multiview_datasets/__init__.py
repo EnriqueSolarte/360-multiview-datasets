@@ -1,4 +1,3 @@
-from geometry_perception_utils.config_utils import get_repo_version
 import os
 
 DATASETS_ROOT = os.path.dirname(os.path.abspath(__file__))

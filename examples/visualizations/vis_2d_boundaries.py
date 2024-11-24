@@ -2,7 +2,6 @@ import hydra
 from geometry_perception_utils.io_utils import get_abs_path
 from geometry_perception_utils.config_utils import save_cfg
 from multiview_datasets.mvl_datasets import load_mvl_dataset
-import layout_models
 from geometry_perception_utils.vispy_utils import plot_list_pcl
 from geometry_perception_utils.image_utils import draw_boundaries_phi_coords
 from imageio.v2 import imwrite

@@ -12,4 +12,4 @@ matplotlib
 shapely
 pyransac3d
 scikit-image
-geometry-perception-utils-dev @ git+https://github.com/EnriqueSolarte/geometry_perception_utils.git@570039d48711ce37577cde4776f99ce927fa90eb
+geometry-perception-utils-dev @ git+https://github.com/EnriqueSolarte/geometry_perception_utils.git@v1.0.24.11.04

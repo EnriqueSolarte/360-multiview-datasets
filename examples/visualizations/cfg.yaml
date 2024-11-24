@@ -5,18 +5,12 @@ log_dir: ${get_hydra_dirname:}/logs/
 defaults:
   - general #defined in DATASETS_CFG
   - datasets #defined in DATASETS_CFG
-  - trained_models #defined in LY_MODELS_CFG
-  - horizon_net #defined in LY_MODELS_CFG
   - _self_
 
-dir_dataset: /media/datasets/mvl_datasets
-datasets:
-  zind_mvl:
-    scene_list: ${datasets.zind_mvl.dir}/scene_list__testing_set.json
+dir_datasets: /media/datasets/mvl_datasets/dataset
 
-mvl_dataset: ${datasets.zind_mvl}
+mvl_dataset: ${datasets.hm3d_mvl}
   
 hydra:
   searchpath:
     - ${oc.env:DATASETS_CFG}
-    - ${oc.env:LY_MODELS_CFG}
