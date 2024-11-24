@@ -5,11 +5,11 @@ with open("./requirements.txt", "r") as f:
 
 setup(
     name="multiview-datasets-dev",
-    version="0.1",
+    version="1.0.24.11.24",
     packages=find_packages(),
     install_requires=requirements,
     package_data={
-        "multiview-datasets-dev": ["config/**"],
+        "multiview_datasets": ["config/**"],
     },
     author="Enrique Solarte",
     author_email="enrique.solarte.pardo@gmail.com",
