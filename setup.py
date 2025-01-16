@@ -5,7 +5,7 @@ with open("./requirements.txt", "r") as f:
 
 setup(
     name="multiview-datasets-dev",
-    version="1.0.24.11.24",
+    version="1.0.1",
     packages=find_packages(),
     install_requires=requirements,
     package_data={

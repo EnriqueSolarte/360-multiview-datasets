@@ -1,12 +1,12 @@
 # Multiview Datasets
 
-This repository contains the code for handling several multiview datasets. 
+This repository contains the code for handling several 360-FoV multiview datasets. 
 In particular, it contains the following datasets:
 
-- [ ] [MP3D-VO Dataset](https://github.com/EnriqueSolarte/robust_360_8PA): A dataset of sequence of 360-images for visual odometry task.
-- [ ] [MP3D-FPE Dataset](https://github.com/EnriqueSolarte/direct_360_FPE): A dataset for floor plan estimation using multiple 360-images.
+<!-- - [ ] [MP3D-VO Dataset](https://github.com/EnriqueSolarte/robust_360_8PA): A dataset of sequence of 360-images for visual odometry task.
+- [ ] [MP3D-FPE Dataset](https://github.com/EnriqueSolarte/direct_360_FPE): A dataset for floor plan estimation using multiple 360-images. -->
 - [x] [MP3D-FPE-MLV Dataset](https://github.com/EnriqueSolarte/360-mlc): A dataset for multiview layout estimation. Particularly, for self-training 360-layout models.
-- [x] [360-HM3D-MLV Dataset](https://github.com/EnriqueSolarte/360-mlc): A dataset for multiview layout estimation using HM3D dataset.
+- [x] [360-HM3D-MLV Dataset](https://github.com/EnriqueSolarte/ray_casting_mlc): A dataset for multiview layout estimation using HM3D dataset.
 
 ## Installation
 
@@ -20,7 +20,7 @@ conda activate mv_datasets
 ```sh
 
 # Installing version v1.0.24.11.24
-pip install git+https://github.com/EnriqueSolarte/multiview-datasets.git@v1.0.24.11.24
+pip install git+https://github.com/EnriqueSolarte/multiview-datasets.git@v1.0.1
 ```
 
 ### For installing this package in dev mode (for development)
@@ -75,7 +75,7 @@ vis_2d_boundaries.py             |  vis_3d_boundaries.py
 ![](assets/vis_2d_boundaries.png)  |  ![](assets/vis_3d_boundaries.png)
 
 > [!NOTE]
-> These datasets were officially proposed in [360-MLC - NeuriPS'22](https://github.com/EnriqueSolarte/360-mlc) and [Ray-casting MLC - ECCV'24](https://github.com/EnriqueSolarte/ray_casting_mlc?tab=readme-ov-file). If you use them, please cite them accordingly. 
+> The `mp3d-fpe` is a dataset originally introduced for the task of Floor Plan Estimation in [Direct 360-FPE - RA'L'22](https://github.com/EnriqueSolarte/direct_360_FPE) and used for self-training layout estimation in [360-MLC - NeuriPS'22](https://enriquesolarte.github.io/360-mlc/). The datasets `mp3d-fpe-mvl`, `hm3d-mvl` and `zind-mvl` are the datasets used in [Ray-casting MLC - ECCV'24](https://enriquesolarte.github.io/ray-casting-mlc/). Note that `zind-mvl` is a subset of the [ZInD]((https://github.com/zillow/zind)). Together these datasets  form the  `mvl-datasets` aiming for a unified benchmark for multiview layout estimation. If you use these datasets, please cite them accordingly. 
 
 
 For the `hm3d_mvl` dataset please cite the following paper:
@@ -90,7 +90,7 @@ For the `hm3d_mvl` dataset please cite the following paper:
 }
 ```
 
-For the `mp3d_fpe_mvl` dataset please cite the following paper:
+For the `mp3d_fpe_mvl` dataset please cite the following papers:
 ```bibtex
 @article{Solarte2022_360_MLC,
     title   ={360-mlc: Multi-view layout consistency for self-training and hyper-parameter tuning},
@@ -100,6 +100,17 @@ For the `mp3d_fpe_mvl` dataset please cite the following paper:
     pages   ={6133--6146},
     year    ={2022}
 }
+```
+```bibtex
+@article{Solarte2022_DFPE,
+  author={Solarte, Bolivar and Liu, Yueh-Cheng and Wu, Chin-Hsuan and Tsai, Yi-Hsuan and Sun, Min},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={360-DFPE: Leveraging Monocular 360-Layouts for Direct Floor Plan Estimation}, 
+  year={2022},
+  volume={7},
+  number={3},
+  pages={6503-6510},
+  doi={10.1109/LRA.2022.3173730}}
 ```
 
 For the `zind-mvl` dataset please cite the following paper:
